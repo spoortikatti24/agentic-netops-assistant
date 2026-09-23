@@ -8,3 +8,6 @@ An intelligent AI agent built with LangChain and Ollama (llama3.1) for cross-dom
 ollama pull llama3.1
 python src/agent.py
 `
+
+## 🛡️ License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
